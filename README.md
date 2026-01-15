@@ -239,6 +239,10 @@ tratatez("", 0)
 ```
 Esto permitirá ver la documentación completa directamente en la consola.
 
+## A continueación se presenta el codigo fuente de una consola (basica) que utiliza la librería tratatez:
+
+Copie y pegue el siguiente código en un archivo .py para probar la consola... y tratatez:
+
 ```python
 """ Mi consola personal """
 
